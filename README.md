@@ -1,2 +1,2 @@
-# searchInArray
+# ReactExamples
 Created with CodeSandbox
